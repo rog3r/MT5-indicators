@@ -1,5 +1,6 @@
 https://www.investopedia.com/trading/trading-divergence-and-understanding-momentum/ 
 https://www.youtube.com/watch?v=JXSJDE3EzN8 
+https://www.babypips.com/learn/forex/9-rules-for-trading-divergences 
 
 Como as tendências são compostas por uma série de oscilações de preços, o momento desempenha um papel fundamental na avaliação da força das tendências. Como tal, é importante saber quando uma tendência está desacelerando. Menos momento nem sempre leva a uma reversão, mas sinaliza que algo está mudando e a tendência pode se consolidar ou reverter.
 
