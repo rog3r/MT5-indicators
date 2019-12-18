@@ -1,4 +1,5 @@
 // https://proforexea.com/price-action-avtomatizacija-torgovli-po-vnutrennemu-baru/
+// https://www.swing-trade-software.com/forex-swing-trading-a-simple-and-profitable-strategy-of-2019.php/
 
 #property copyright Copyright, Dmitry Iglakov 2015. "
 #property link      "cjdmitri@gmail.com"
