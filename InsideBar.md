@@ -1,5 +1,8 @@
+//http://forextraderportal.com/best-inside-bar-indicator/ 
 // https://proforexea.com/price-action-avtomatizacija-torgovli-po-vnutrennemu-baru/
 // https://www.swing-trade-software.com/forex-swing-trading-a-simple-and-profitable-strategy-of-2019.php/
+
+// https://www.facebook.com/reversal.diamond/photos/pcb.1162671423867796/1162670007201271/?type=3&theater
 
 #property copyright Copyright, Dmitry Iglakov 2015. "
 #property link      "cjdmitri@gmail.com"
