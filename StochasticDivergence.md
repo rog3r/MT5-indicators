@@ -12,6 +12,7 @@ A divergência é um dos sinais vitais que retratam a próxima reversão de pre�
 
 Limitações do indicador de divergência estocástica
 Usar a divergência estocástica como sinal de entrada independente pode ser arriscado. Toda divergência não pode ser interpretada como um forte sinal de reversão. Para melhores resultados, tente combiná-lo com a ação do preço e a direção da tendência.
+Com base nesta informação, os comerciantes podem ainda assumir o movimento dos preços e ajustar a sua estratégia nesse sentido.
 
 Recursos
 Marca divergências regulares e ocultas entre o preço e o oscilador estocástico.
@@ -27,10 +28,22 @@ De um modo geral, se o preço está fazendo elevações mais altas, o oscilador 
 Quando esse comportamento normal não é seguido, isso significa que o preço e o oscilador estão divergindo um do outro. Existem dois tipos de divergência:
 
 Divergência regular
+
 Divergência de alta regular:  quando o preço está fazendo mínimos mais baixos, mas o oscilador está fazendo pontos mais baixos.
 Divergência de baixa regular: quando o preço está atingindo elevações mais altas, mas o oscilador está atingindo elevações mais baixas.
 
 Divergência Oculta
+
 Divergência de alta oculta:  se o preço estiver atingindo mínimos mais altos, mas o oscilador estiver atingindo mínimos mais baixos. 
 Divergência de  baixa oculta: se o preço está atingindo os máximos mais baixos, mas o oscilador está atingindo os máximos mais altos.
 "A divergência regular é usada para identificar as reversões de tendência, e a divergência oculta é usada para determinar a continuação da tendência".
+
+https://www.forexmt4indicators.com/pt/stochastic-divergence-2/
+https://www.dolphintrader.com/stochastic-divergence-forex-trading-strategy/ 
+https://www.mql5.com/en/forum/175886/page18 
+
+Divergência estocástico fornece uma oportunidade para detectar várias peculiaridades e padrões em dinâmica dos preços que são invisíveis a olho nu.
+
+A linha sólida mostra a divergência clássico, a linha pontilhada mostra a divergência reversa.
+
+É possível alterar a cor da linha (as variáveis ColorBull e ColorBear)
