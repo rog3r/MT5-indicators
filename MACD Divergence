@@ -1,0 +1,31 @@
+https://mt5indicator.com/pt/macd-divergence/
+
+Este indicador irá traçar linhas de divergência sobre o indicador MACD e dará compra e venda de sinal, exibindo setas verdes e vermelhas.
+
+Ele também tem uma função de alerta embutida. Como o indicador inicial, divergência de alta é representada em linhas verdes enquanto divergência de baixa é plotada em vermelho. Se a divergência é clássica a linha será contínuo e se o tipo é revertida a linha será pontilhada.
+ 
+Indicador MT5 – Instruções para download
+
+MACD Divergência é uma Metatrader 5 (MT5) indicador e a essência do indicador forex é transformar os dados do histórico acumulado.
+
+MACD Divergências fornece uma oportunidade para detectar várias peculiaridades e padrões em dinâmica dos preços que são invisíveis a olho nu.
+
+Com base nesta informação, os comerciantes podem assumir ainda mais o movimento dos preços e ajustar a sua estratégia nesse sentido.
+
+Como instalar o MACD Divergence.mq5?
+
+Baixe MACD Divergence.mq5
+Copiar MACD Divergence.mq5 para o seu Diretório Metatrader / especialistas / indicadores /
+Iniciar ou reiniciar o Metatrader 5 Cliente
+Select Chart e calendário onde você quiser testar o seu indicador
+Pesquisa “Indicadores Personalizados” no seu Navigator principalmente à esquerda em seu Metatrader 5 Cliente
+Botão direito do mouse no MACD Divergence.mq5
+Anexar a um gráfico
+Modificar as configurações ou pressione OK
+Indicador MACD Divergence.mq5 está disponível em seu Gráfico
+Como remover MACD Divergence.mq5 do seu Metatrader 5 Gráfico?
+
+Selecione o gráfico onde é o indicador que funciona no seu cliente Metatrader
+Botão direito do mouse no Gráfico
+“Lista de indicadores”
+Selecione o indicador e excluir
