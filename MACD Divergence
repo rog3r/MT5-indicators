@@ -1,6 +1,11 @@
 https://mt5indicator.com/pt/macd-divergence/
 https://www.mql5.com/en/forum/175886/page18 
 
+O indicador localiza divergências ; ou seja, situações em que há uma desconexão temporária entre um oscilador como o MACD e o preço de mercado. Em casos típicos, 
+o MACD (ou qualquer outro oscilador escolhido) está se movendo contra o preço em um curto período. Isso cria oportunidades de negociação.
+
+A divergência é uma estratégia favorita entre os traders técnicos. Isso se deve ao sinal limpo e à capacidade de localizar pontos de virada no mercado de alta probabilidade. 
+
 Este indicador irá traçar linhas de divergência sobre o indicador MACD e dará compra e venda de sinal, exibindo setas verdes e vermelhas.
 
 Ele também tem uma função de alerta embutida. Como o indicador inicial, divergência de alta é representada em linhas verdes enquanto divergência de baixa é plotada em vermelho. Se a divergência é clássica a linha será contínuo e se o tipo é revertida a linha será pontilhada.
