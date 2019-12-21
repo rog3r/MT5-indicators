@@ -1,5 +1,13 @@
 https://www.keenbase-trading.com/products/kt-stochastic-divergence-indicator-mt4-mt5/ 
 
+
+Estratégia de Negociação Forex de Divergência Estocástica
+
+A estratégia de negociação de divergência estocástica é baseada na divergência clássica de alta e de baixa.
+
+Os comerciantes podem implantar essa estratégia ao procurar reversão de tendência ou zonas onde o preço provavelmente reverterá.
+
+
 A divergência é um dos sinais vitais que retratam a próxima reversão de preços no mercado. O indicador de divergência estocástica KT mostra as divergências regulares e ocultas entre o preço e o oscilador estocástico.
 
 Limitações do indicador de divergência estocástica
